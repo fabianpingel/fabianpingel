@@ -23,7 +23,7 @@ Praxisnah, ohne Vorkenntnisse und mit Technik zum Anfassen. Das Material ist fre
 
 | Workshop | Inhalt | Status |
 |---|---|---|
-| [**EU AI Act für kleine Organisationen**](https://github.com/fabianpingel/eu-ai-act) | Halbtages-Workshop für KMU, Vereine und Kommunen: Pflichten verstehen und mit neun Vorlagen direkt umsetzen | Rechtsstand 09/2026, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) |
+| [**EU AI Act für kleine Organisationen**](https://github.com/fabianpingel/eu-ai-act) | Halbtages-Workshop für KMU, Vereine und Kommunen: Pflichten verstehen und mit neun Vorlagen direkt umsetzen | Rechtsstand 11/2026, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) |
 
 Schulungen für Ihr Unternehmen: [fabian-pingel.de/ki-schulungen](https://www.fabian-pingel.de/ki-schulungen.html)
 
