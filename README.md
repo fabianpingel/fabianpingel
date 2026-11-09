@@ -1,21 +1,23 @@
 # Fabian Pingel
 
-**KI-Berater und KI-Ingenieur** · PINGEL AI Solutions · Neuenrade, Sauerland
+**KI-Berater & Umsetzer** · Neuenrade im Sauerland
 
-Keine KI-Magie, sondern Lösungen, die funktionieren. Seit 2018 arbeite ich mit Künstlicher Intelligenz: zunächst mit Computer Vision in der Bauteilkontrolle, heute auch mit LLM-Pipelines, Wissensextraktion und Prozessautomatisierung. Hintergrund: Maschinenbau, MBA Innovationsmanagement, Master in angewandter KI.
+Ich beschäftige mich seit 2018 mit Künstlicher Intelligenz. Angefangen habe ich mit Computer Vision in der Bauteilkontrolle, heute arbeite ich vor allem mit Sprachmodellen, Wissensextraktion und Automatisierung. Mich interessiert dabei weniger, was technisch gerade möglich ist, als das, was im Alltag wirklich Arbeit abnimmt. Keine Spielereien, sondern Lösungen, die funktionieren.
+
+Mit **PINGEL AI Solutions** berate und unterstütze ich Unternehmen, Kanzleien und Verbände in und um Neuenrade: von der ersten ehrlichen Einschätzung über den Prototyp bis zur Übergabe. Und weil man KI am besten versteht, wenn man sie selbst ausprobiert, entwickle ich ehrenamtlich Workshops für Schulen.
 
 [fabian-pingel.de](https://www.fabian-pingel.de) · [LinkedIn](https://www.linkedin.com/in/fabian-pingel/) · [kontakt@fabian-pingel.de](mailto:kontakt@fabian-pingel.de)
 
 ---
 
-## 🏫 Schul-Workshops
+## 🏫 Workshops für Schulen
 
-Ehrenamtlich entwickelt für die Jahrgangsstufe 10 des Albert-Schweitzer-Gymnasiums Plettenberg. Das Material ist frei nutzbar ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de), Code unter MIT). Lehrkräfte sind eingeladen, es einzusetzen und weiterzuentwickeln.
+Praxisnah, ohne Vorkenntnisse und mit Technik zum Anfassen. Das Material ist frei nutzbar ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de), Code unter MIT). Lehrkräfte sind herzlich eingeladen, es einzusetzen und weiterzuentwickeln.
 
 | Workshop | Inhalt | Status |
 |---|---|---|
-| [**Build Your Own AI**](https://github.com/fabianpingel/build-your-own-ai) | Ein Sprachmodell lokal auf dem Raspberry Pi Zero 2W betreiben, ohne Vorkenntnisse | Durchgeführt 2026 |
-| **Face it!** | Computer Vision am Beispiel der Gesichtserkennung, vom Pixel bis zur eigenen Face-ID | In Vorbereitung |
+| 🧠 [**Build Your Own AI**](https://github.com/fabianpingel/build-your-own-ai) | Ein eigenes Sprachmodell lokal auf dem Raspberry Pi Zero 2W betreiben | ✅ erprobt 2026 |
+| 🙂 **Face it!** | Computer Vision am Beispiel der Gesichtserkennung: vom Pixel bis zur eigenen Face-ID | 🚧 in Vorbereitung |
 
 ## ⚖️ EU AI Act
 
@@ -31,7 +33,6 @@ Schulungen für Ihr Unternehmen: [fabian-pingel.de/ki-schulungen](https://www.fa
 |---|---|
 | [**VisionLab**](https://github.com/fabianpingel/VisionLab) | Live-Objekterkennung im Browser, ohne Datenübertragung · [Demo](https://vision.pingel-ai-solutions.de) |
 | [**PlieAI**](https://github.com/fabianpingel/PlieAI_Web) | Ballett-Posen lernen mit Posenerkennung, eine App für Kinder · [Demo](https://plieai.pingel-ai-solutions.de) |
-| [**LayerSentinel**](https://github.com/fabianpingel/LayerSentinel) | Überwachung und Steuerung eines BambuLab-3D-Druckers über die API (in Entwicklung) |
 
 ---
 
