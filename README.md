@@ -1,4 +1,4 @@
-# Hallo, ich bin Fabian 👋
+# Hallo, ich bin Fabian
 
 Ich beschäftige mich mit **Künstlicher Intelligenz zum Anfassen**: lokal, nachvollziehbar und ohne Cloud-Zwang.
 Hier findest Du meine Workshops und Projekte, nach Themen sortiert.
