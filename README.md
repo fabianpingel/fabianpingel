@@ -32,7 +32,7 @@ Schulungen für Ihr Unternehmen: [fabian-pingel.de/ki-schulungen](https://www.fa
 | Projekt | Inhalt |
 |---|---|
 | [**VisionLab**](https://github.com/fabianpingel/VisionLab) | Live-Objekterkennung im Browser, ohne Datenübertragung · [Demo](https://vision.pingel-ai-solutions.de) |
-| [**PlieAI**](https://github.com/fabianpingel/PlieAI_Web) | Ballett-Posen lernen mit Posenerkennung, eine App für Kinder · [Demo](https://plieai.pingel-ai-solutions.de) |
+| [**PlieAI**](https://github.com/fabianpingel/PlieAI_Web) | Ballett-Posen zu Hause üben: Echtzeit-Posenerkennung im Browser, ohne Datenübertragung, eine App für Kinder · [Demo (Beta)](https://plieai.pingel-ai-solutions.de) |
 
 ---
 
