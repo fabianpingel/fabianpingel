@@ -17,7 +17,7 @@ Praxisnah, ohne Vorkenntnisse und mit Technik zum Anfassen. Das Material ist fre
 | Workshop | Inhalt | Status |
 |---|---|---|
 | 🧠 [**Build Your Own AI**](https://github.com/fabianpingel/build-your-own-ai) | Ein eigenes Sprachmodell lokal auf dem Raspberry Pi Zero 2W betreiben | ✅ erprobt 2026 |
-| 🙂 **Face it!** | Computer Vision am Beispiel der Gesichtserkennung: vom Pixel bis zur eigenen Face-ID | 🚧 in Vorbereitung |
+| 🙂 [**Face it!**](https://github.com/fabianpingel/face-it) | Computer Vision am Beispiel der Gesichtserkennung: vom Pixel bis zur eigenen Face-ID | 🧪 Beta, im Test |
 
 ## ⚖️ EU AI Act
 
